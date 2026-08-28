@@ -1,0 +1,201 @@
+EmployeeID,Age,Department,Education,YearsAtCompany,MonthlyIncome,SatisfactionScore,Attrition
+1001,59.0,Marketing,High School,1.0,47699.28,5.0,Yes
+1002,49.0,Marketing,PhD,4.0,75016.68,1.0,No
+1003,35.0,HR,PhD,4.0,,5.0,No
+1004,28.0,Marketing,Bachelor's,5.0,59960.51,1.0,No
+1005,,HR,Bachelor's,18.0,54779.23,2.0,Yes
+1006,59.0,Engineering,PhD,7.0,66946.08,,No
+1007,39.0,HR,High School,15.0,,1.0,No
+1008,43.0,HR,Master's,12.0,30029.6,5.0,No
+1009,31.0,Marketing,PhD,0.0,54907.01,2.0,No
+1010,31.0,Marketing,High School,21.0,61046.79,1.0,No
+1011,44.0,Sales,Bachelor's,19.0,71840.17,3.0,No
+1012,56.0,Sales,Bachelor's,16.0,33382.06,4.0,No
+1013,44.0,Engineering,High School,6.0,,1.0,No
+1014,23.0,Sales,Master's,24.0,53870.45,2.0,Yes
+1015,42.0,HR,Bachelor's,12.0,38481.22,3.0,Yes
+1016,22.0,Marketing,Bachelor's,3.0,62315.1,2.0,Yes
+1017,44.0,Sales,Bachelor's,3.0,66210.52,2.0,No
+1018,50.0,Sales,High School,5.0,50639.62,3.0,Yes
+1019,58.0,Engineering,PhD,18.0,,2.0,Yes
+1020,22.0,Engineering,Bachelor's,11.0,50209.6,,No
+1021,41.0,HR,PhD,21.0,48299.75,1.0,No
+1022,53.0,Marketing,Master's,6.0,47864.93,3.0,No
+1023,,Engineering,Bachelor's,9.0,42767.51,3.0,No
+1024,42.0,,Bachelor's,18.0,46614.62,4.0,No
+1025,45.0,Marketing,Master's,6.0,33488.67,3.0,No
+1026,47.0,Marketing,Bachelor's,2.0,52127.01,3.0,Yes
+1027,48.0,Sales,PhD,12.0,55862.11,1.0,No
+1028,36.0,Engineering,High School,12.0,20757.96,4.0,No
+1029,35.0,Sales,PhD,17.0,53470.76,5.0,No
+1030,99.0,Marketing,High School,19.0,55632.01,1.0,No
+1031,57.0,Finance,High School,7.0,62718.83,1.0,No
+1032,27.0,Finance,PhD,8.0,73069.53,5.0,No
+1033,41.0,HR,PhD,6.0,67770.31,3.0,No
+1034,29.0,Sales,PhD,0.0,45694.54,2.0,No
+1035,59.0,Sales,PhD,2.0,387026.64,4.0,No
+1036,38.0,HR,Master's,12.0,63692.57,2.0,No
+1037,24.0,HR,Bachelor's,24.0,46790.8,5.0,Yes
+1038,45.0,HR,High School,16.0,36579.19,,No
+1039,34.0,,PhD,24.0,90612.13,1.0,Yes
+1040,29.0,Sales,PhD,23.0,50339.14,,No
+1041,46.0,Marketing,PhD,0.0,387026.64,1.0,No
+1042,22.0,HR,Master's,5.0,22118.05,1.0,No
+1043,40.0,Sales,PhD,20.0,67771.03,4.0,No
+1044,48.0,Marketing,PhD,5.0,40180.96,4.0,No
+1045,27.0,Marketing,PhD,11.0,55429.31,5.0,Yes
+1046,28.0,,Bachelor's,12.0,69529.35,1.0,No
+1047,55.0,Sales,Master's,12.0,40415.97,1.0,Yes
+1048,34.0,HR,PhD,14.0,56192.24,5.0,Yes
+1049,37.0,Sales,High School,20.0,77856.81,3.0,No
+1050,56.0,Finance,High School,15.0,18148.79,3.0,No
+1051,24.0,Engineering,High School,21.0,42842.41,3.0,No
+1052,,Engineering,Master's,20.0,41431.87,5.0,Yes
+1053,26.0,Engineering,Master's,10.0,52196.42,1.0,No
+1054,24.0,HR,High School,4.0,,5.0,No
+1055,49.0,Finance,PhD,3.0,39081.06,5.0,No
+1056,38.0,Sales,Master's,2.0,45184.4,3.0,No
+1057,,Marketing,High School,18.0,43401.63,2.0,No
+1058,54.0,Sales,High School,19.0,49738.16,,No
+1059,30.0,Marketing,PhD,24.0,387026.64,,No
+1060,56.0,Sales,Bachelor's,17.0,68658.46,2.0,No
+1061,34.0,Finance,Master's,14.0,70829.96,2.0,No
+1062,51.0,Marketing,PhD,8.0,64804.51,,No
+1063,35.0,HR,High School,16.0,,1.0,No
+1064,28.0,Sales,High School,13.0,54950.56,,No
+1065,34.0,Sales,PhD,14.0,90614.94,3.0,No
+1066,43.0,Marketing,Master's,0.0,70217.99,,No
+1067,,HR,Bachelor's,20.0,48392.43,1.0,No
+1068,36.0,HR,Bachelor's,21.0,78730.57,5.0,No
+1069,38.0,Finance,High School,21.0,49178.96,3.0,No
+1070,44.0,HR,Master's,2.0,44973.97,2.0,No
+1071,46.0,HR,Bachelor's,15.0,75935.98,2.0,No
+1072,45.0,HR,Master's,22.0,35355.26,3.0,No
+1073,49.0,Engineering,Master's,24.0,26293.34,2.0,No
+1074,35.0,Finance,High School,10.0,69119.27,4.0,No
+1075,21.0,Sales,Bachelor's,11.0,,1.0,Yes
+1076,45.0,Marketing,PhD,9.0,56910.48,4.0,Yes
+1077,27.0,Sales,High School,15.0,49578.66,2.0,No
+1078,29.0,Finance,Bachelor's,7.0,51422.6,5.0,No
+1079,44.0,Marketing,Bachelor's,5.0,48128.35,,Yes
+1080,21.0,Finance,Bachelor's,11.0,45610.11,1.0,Yes
+1081,28.0,HR,Bachelor's,23.0,49271.35,3.0,Yes
+1082,44.0,Marketing,Bachelor's,20.0,48798.23,3.0,Yes
+1083,,HR,Master's,7.0,42571.24,5.0,Yes
+1084,37.0,Sales,High School,3.0,46822.46,1.0,No
+1085,28.0,Sales,Master's,7.0,17458.61,5.0,No
+1086,55.0,Marketing,PhD,17.0,65269.63,3.0,No
+1087,55.0,Marketing,Bachelor's,4.0,60853.8,3.0,No
+1088,53.0,Finance,High School,8.0,53726.37,1.0,Yes
+1089,25.0,Finance,Bachelor's,3.0,58559.87,4.0,No
+1090,59.0,HR,High School,21.0,59103.66,2.0,No
+1091,,Marketing,Master's,16.0,44139.97,3.0,No
+1092,27.0,Sales,High School,8.0,47011.3,3.0,Yes
+1093,29.0,Finance,PhD,0.0,62924.75,4.0,No
+1094,28.0,Finance,PhD,20.0,58112.55,4.0,No
+1095,32.0,Sales,High School,19.0,85649.81,5.0,No
+1096,54.0,Finance,High School,12.0,79294.18,5.0,No
+1097,53.0,HR,High School,15.0,68995.18,2.0,No
+1098,43.0,Marketing,High School,12.0,43573.98,2.0,No
+1099,44.0,Sales,PhD,13.0,46531.64,1.0,No
+1100,57.0,Marketing,Bachelor's,2.0,39969.3,5.0,Yes
+1101,55.0,Finance,High School,5.0,59196.36,3.0,Yes
+1102,42.0,Finance,High School,17.0,13885.68,5.0,No
+1103,47.0,Sales,PhD,18.0,48120.71,3.0,Yes
+1104,55.0,HR,PhD,4.0,50399.25,4.0,No
+1105,21.0,Engineering,Master's,14.0,32135.64,5.0,No
+1106,55.0,Sales,High School,24.0,66966.04,4.0,No
+1107,57.0,Engineering,Master's,1.0,37912.87,2.0,No
+1108,34.0,Engineering,PhD,9.0,59016.14,2.0,No
+1109,23.0,HR,PhD,23.0,96756.66,1.0,No
+1110,21.0,Engineering,Bachelor's,17.0,30834.92,5.0,No
+1111,25.0,Engineering,High School,12.0,52771.73,4.0,No
+1112,46.0,HR,Master's,4.0,,3.0,No
+1113,99.0,Engineering,PhD,22.0,45970.47,2.0,No
+1114,59.0,Engineering,PhD,23.0,66403.77,2.0,Yes
+1115,47.0,Engineering,Master's,0.0,71594.94,3.0,No
+1116,29.0,Sales,Bachelor's,21.0,66574.57,,No
+1117,35.0,Sales,PhD,0.0,44149.91,4.0,No
+1118,35.0,Sales,High School,17.0,91507.72,,No
+1119,46.0,HR,PhD,14.0,28446.35,5.0,Yes
+1120,33.0,Finance,High School,16.0,39510.56,1.0,Yes
+1121,52.0,Engineering,Master's,10.0,57545.94,2.0,No
+1122,59.0,Engineering,High School,20.0,56340.91,5.0,Yes
+1123,52.0,HR,Master's,24.0,62320.66,4.0,No
+1124,24.0,Engineering,High School,21.0,78702.01,3.0,No
+1125,50.0,Sales,Master's,16.0,53202.24,4.0,No
+1126,57.0,Finance,High School,12.0,56705.94,2.0,No
+1127,43.0,Marketing,Bachelor's,0.0,46082.26,4.0,No
+1128,59.0,Engineering,High School,1.0,63824.93,1.0,No
+1129,35.0,,High School,8.0,50222.82,2.0,No
+1130,49.0,Marketing,Bachelor's,2.0,50214.14,3.0,No
+1131,56.0,Finance,PhD,0.0,63152.25,1.0,No
+1132,33.0,,PhD,20.0,70523.81,2.0,No
+1133,52.0,Sales,High School,15.0,21878.4,3.0,No
+1134,27.0,Marketing,Bachelor's,22.0,60411.68,1.0,No
+1135,42.0,HR,High School,5.0,50946.95,1.0,No
+1136,48.0,Marketing,Master's,16.0,69214.25,2.0,No
+1137,22.0,Engineering,Master's,4.0,51248.16,,No
+1138,26.0,Engineering,High School,4.0,74515.79,,No
+1139,48.0,HR,PhD,5.0,44853.8,1.0,Yes
+1140,48.0,Sales,PhD,2.0,21545.05,3.0,No
+1141,40.0,Engineering,High School,20.0,70773.9,4.0,No
+1142,,Finance,High School,22.0,42346.83,2.0,No
+1143,31.0,Engineering,Master's,4.0,31296.22,2.0,No
+1144,48.0,Engineering,PhD,20.0,55240.8,5.0,No
+1145,45.0,Sales,High School,4.0,51412.32,5.0,No
+1146,59.0,Marketing,Master's,9.0,67346.57,2.0,Yes
+1147,53.0,Engineering,PhD,9.0,68386.16,5.0,No
+1148,21.0,HR,Bachelor's,18.0,56434.31,3.0,Yes
+1149,47.0,Marketing,Master's,16.0,41727.76,2.0,No
+1150,33.0,Finance,PhD,20.0,59304.12,5.0,No
+1151,23.0,Sales,PhD,13.0,57477.92,2.0,No
+1152,59.0,Finance,Master's,8.0,63534.05,4.0,No
+1153,26.0,Marketing,Bachelor's,13.0,41877.9,1.0,No
+1154,28.0,Marketing,Master's,0.0,48994.41,2.0,Yes
+1155,47.0,Marketing,PhD,18.0,62640.67,1.0,No
+1156,29.0,Finance,High School,12.0,73709.91,5.0,Yes
+1157,57.0,Marketing,High School,12.0,69488.83,1.0,No
+1158,53.0,Finance,Master's,3.0,56230.82,2.0,No
+1159,44.0,Marketing,PhD,0.0,47689.07,4.0,Yes
+1160,35.0,HR,High School,16.0,61057.31,5.0,No
+1161,52.0,Marketing,PhD,7.0,38629.14,2.0,No
+1162,52.0,Finance,Master's,1.0,42744.98,5.0,Yes
+1163,44.0,Engineering,High School,7.0,77646.57,3.0,No
+1164,32.0,Marketing,PhD,6.0,61030.52,1.0,No
+1165,59.0,Engineering,High School,1.0,49787.1,,No
+1166,22.0,HR,Master's,21.0,67437.08,2.0,No
+1167,,Sales,PhD,21.0,74304.62,4.0,No
+1168,57.0,HR,High School,2.0,48330.44,5.0,No
+1169,37.0,Marketing,Master's,17.0,48588.88,1.0,No
+1170,22.0,Engineering,High School,11.0,46710.31,5.0,No
+1171,22.0,Engineering,High School,0.0,,2.0,No
+1172,48.0,Finance,Bachelor's,21.0,69603.36,5.0,No
+1173,43.0,Engineering,Bachelor's,11.0,75788.55,,No
+1174,57.0,Finance,Master's,4.0,70129.04,2.0,Yes
+1175,52.0,Sales,Bachelor's,24.0,30516.73,5.0,Yes
+1176,53.0,Marketing,Master's,16.0,59214.46,4.0,No
+1177,,Finance,Bachelor's,15.0,39124.22,2.0,No
+1178,39.0,Sales,High School,14.0,47306.28,2.0,No
+1179,22.0,Engineering,Master's,22.0,57558.91,4.0,Yes
+1180,46.0,Engineering,Master's,14.0,67533.48,3.0,No
+1181,52.0,Sales,High School,4.0,41637.35,1.0,Yes
+1182,,Engineering,Master's,20.0,20129.21,3.0,No
+1183,52.0,Sales,Master's,13.0,57707.96,5.0,No
+1184,24.0,Finance,Bachelor's,1.0,94653.57,4.0,No
+1185,31.0,,Master's,10.0,51957.31,3.0,No
+1186,37.0,Sales,PhD,18.0,,2.0,Yes
+1187,58.0,Finance,High School,6.0,81732.45,5.0,No
+1188,44.0,Finance,Bachelor's,5.0,63854.12,5.0,No
+1189,25.0,Finance,Bachelor's,1.0,58252.92,3.0,No
+1190,54.0,HR,PhD,5.0,61631.75,3.0,Yes
+1191,26.0,Marketing,High School,17.0,58753.66,4.0,No
+1192,42.0,Engineering,High School,1.0,37903.68,1.0,No
+1193,31.0,HR,Bachelor's,17.0,34878.32,3.0,No
+1194,36.0,Finance,Master's,14.0,83302.42,3.0,Yes
+1195,53.0,Sales,Bachelor's,18.0,57758.25,2.0,Yes
+1196,29.0,Finance,High School,1.0,56501.43,5.0,No
+1197,26.0,Marketing,PhD,19.0,53646.59,1.0,No
+1198,36.0,Finance,Bachelor's,24.0,66716.1,2.0,Yes
+1199,49.0,Sales,High School,5.0,93080.37,4.0,No
+1200,,Marketing,Bachelor's,0.0,62859.29,4.0,Yes
